@@ -5,7 +5,7 @@
 ---
 #### [팀명] 한솥밥
 
-#### [팀장] 김지호
+#### [팀장] 이도형
 
 #### [팀원]
 - 김지호
@@ -27,7 +27,3 @@
   - 김지호: 삼각함수, Clear 기능 구현
   - 이도형: Android 애플리케이션으로 구현
 <br/>
-
-##### [프로젝트 문서화][doclink]
-
-[doclink]: https://github.com/Kim-Ziho/KSA_Calculator/blob/main/document/Calc.md "go doc"
